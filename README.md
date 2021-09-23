@@ -87,4 +87,5 @@
   # ER-диаграмма
   
   
-![1](https://user-images.githubusercontent.com/78725341/134470077-2f9c116f-d607-40ce-83e0-0162a39fe7ae.PNG)
+![4](https://user-images.githubusercontent.com/78725341/134472165-d1d3b6a6-16e7-4e6f-b813-70b0cf7f6b61.PNG)
+
